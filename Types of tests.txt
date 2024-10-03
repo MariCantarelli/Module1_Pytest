@@ -1,0 +1,25 @@
+Testes Unitário - Verificam a menor parte do software, como funções ou métodos, isoladamente - aceita pytest
+Testes de Integração - Avaliam como diferentes módulos ou servições funcionam juntos - aceitam pytest
+Testes de Sistema - Testam o sistema completo para veificar se ele atende aos requisitos especificados - aceitam pytest
+Testes de Aceitação - Conduzidos com à participação do cliente para garantir que o sistema atenda aos requisitos especificados.
+Testes de Regressão - Realizados após modificações no software - aceitam pytest
+Testes de Desempenho - Testa velocidade, escalabilidade, estabilidade e o uso de recursos - aceitam pytest
+Testes de Carga - Testa como o sistema se comporta sob uma carga de trabalho, significativa - aceitam pytest
+Testes de Stress - Tipo de teste de desempenho, deternminam os limites do software, avaliando seu comportamento sob condições extremas. - aceitam pytest
+Testes de Segurança - Testaa se o software está protegido contra possíveis ameaças e vulnerabilidades de segurança - aceitam pytest
+Testes de Usabilidade - Focam na esperiência do usuário.
+Testes End to End - simula o fluxo completo de uma aplicação - aceita pytest
+
+----
+
+Unit Tests - Check the smallest part of the software, such as functions or methods, in isolation - supports pytest
+Integration Tests - Evaluate how different modules or services work together - accept pytest
+System Tests - Test the complete system to verify that it meets the specified requirements - accepts pytest
+Acceptance Tests - Conducted with customer participation to ensure that the system meets specified requirements.
+Regression Tests - Performed after software modifications - accept pytest
+Performance Tests - Tests speed, scalability, stability and resource usage - supports pytest
+Load Testing - Tests how the system behaves under a significant workload - supports pytest
+Stress Tests - Type of performance test, determines the limits of the software, evaluating its behavior under extreme conditions. - accept pytest
+Security Testing - Tests whether the software is protected against possible threats and security vulnerabilities - accepts pytest
+Usability Tests - Focus on the user experience.
+End to End Tests - simulates the complete flow of an application - supports pytest
